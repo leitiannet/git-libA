@@ -1,0 +1,1 @@
+echo libA version1
